@@ -1,0 +1,24 @@
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Environment
+.env
+.env.*
+
+# Go backend
+backend/listingsearch
+*.exe
+*.test
+*.out
+coverage.*
+
+# Frontend
+node_modules/
+frontend/dist/
+*.tsbuildinfo
+*.local
+npm-debug.log*
+
